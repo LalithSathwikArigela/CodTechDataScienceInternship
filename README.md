@@ -1,1 +1,1 @@
-# CodTechDataScienceIntership
+# CodTechDataScienceInternship
